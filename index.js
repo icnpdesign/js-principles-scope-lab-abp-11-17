@@ -18,5 +18,3 @@ var leastFavoriteCustomer = 'jill'
 function changeLeastFavoriteCustomer() {
     leastFavoriteCustomer = 'ben'
  }
-
-
